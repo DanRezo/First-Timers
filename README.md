@@ -27,9 +27,22 @@ When more that 2 conditions are input a switch statement will test a variety of 
 ## Casting a double to an int.
 
 Converting information to a new form is called *casting*. Casting produces a new value that is a different type of variable or object than it's source.Casting doesn'y actually change the value, instead a new variable or pbject is created in the format you need.
-To cast information into a new format, 
+To cast information into a new format, put the new format surrounded by parens in front of it.
 
--
+Here is an example of casting an integer to a string
+
+```
+int number = 305;
+Sting intasstring = Integer.toString(number);
+
+THe result will be
+
+String intasstring = 305:
+```
+
+The result is shown because of a static class method  "public static String toString(int i)"
+
+
 
 
 
