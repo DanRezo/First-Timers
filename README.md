@@ -2,9 +2,9 @@
    Here I will be covering some questions that I've run into while self-studying Java.  
    
 ## Who am I?
-   My name is Daniel Balarezo ,but I usually go by Rezo. I'm origianally from Miami, Fl and am hoping to become a great software engineer.
-## What can I learn from this blog?
+   My name is Daniel Balarezo ,but I usually go by Rezo. I'm origianally from Miami, Fl and am hoping to become a great software engineer.| ## What can I learn from this blog?
    Hopefully, the problems I have encountered and run into will help you on your quest on understanding Java principles.
+   
 
 
 You can use the [editor on GitHub](https://github.com/DanRezo/First-Timers/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
