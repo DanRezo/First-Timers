@@ -35,12 +35,26 @@ Here is an example of casting an integer to a string
 int number = 305;
 Sting intasstring = Integer.toString(number);
 
-THe result will be
+The result will be
 
 String intasstring = 305:
 ```
 
-The result is shown because of a static class method  "public static String toString(int i)"
+The result is shown because of a static class method  "public static String toString(int i)".
+
+## 'import.java.util.Scanner.'
+
+Java.util.Scanner is a library within java that contains functionality that allows the user to gather information into our programs fron the keyboard or other places like files from the omputer or from the internet. 
+
+```
+Scanner Keyboard = new Scanner(System.in)
+keyboard.next()
+```
+**Scanner** is refereing to the object which is the **Keyboard**
+'keyboard.next() is telling the computer "keyboard *run* next() *funtion*.
+
+Scanner will pause the program and wait for the user to type something. Once theuser types something and presses enter, the Scanner ogject will package it into a string and allow your code to continue.
+
 
 
 
