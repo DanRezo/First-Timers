@@ -12,7 +12,24 @@
 ## "=" vs '==' vs '.equals
 
 The difference between the three "equals" isn't as tricky as you think. Firstly, they are all used for something a little different.
-* "="  
+* (=) is your equal sign and is used to assign a starting value when a variable is created. This is usually used for setting variables that store numbers.
+
+* ( == ) Always used in conditional statements, the operator " == " is used to conduct equality tests. Not used to compare two strings.
+
+* (.equals) is known as the equals method and is used to compare two strings. 
+
+## Differences between 'switch' and ' if/else'
+
+There are times that you would need to run a condition if it is true and then another if it is false. If-else statements allow the program to do just that. If a condition is true it allows the program to run something, else the program will run the false condition.
+
+When more that 2 conditions are input a switch statement will test a variety of different conditions and respond accordingly.
+
+## Casting a double to an int.
+
+Converting information to a new form is called *casting*. Casting produces a new value that is a different type of variable or object than it's source.Casting doesn'y actually change the value, instead a new variable or pbject is created in the format you need.
+To cast information into a new format, 
+
+-
 
 
 
