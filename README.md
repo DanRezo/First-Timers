@@ -1,4 +1,5 @@
-## Welcome to a my notes covering  
+## Welcome to my first blog!
+   Here I will be covering some questions that I've run into while self-studying Java.  
 
 You can use the [editor on GitHub](https://github.com/DanRezo/First-Timers/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
