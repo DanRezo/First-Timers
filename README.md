@@ -55,6 +55,7 @@ Scanner will pause the program and wait for the user to type something. Once the
 ## 'For', 'while', and 'do while loops'.
 
 The main difference between for loop, while loop, and do while loop is as follows
+
 1. While loop checks for the condition first. Therefore, it may not even enter into the loop, if the condition is false.
 2. Do while loop, executes the statements in the loop first before checking for the condition. At least one iteration takes places, even
    if the condition is false.
