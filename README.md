@@ -47,8 +47,8 @@ The result is shown because of a static class method  "public static String toSt
 Java.util.Scanner is a library within java that contains functionality that allows the user to gather information into our programs fron the keyboard or other places like files from the omputer or from the internet. 
 
 ```
-Scanner Keyboard = new Scanner(System.in)
-keyboard.next()
+Scanner Keyboard = new Scanner(System.in);
+keyboard.next();
 ```
 **Scanner** is refereing to the object which is the **Keyboard**
 'keyboard.next() is telling the computer "keyboard *run* next() *funtion*.
