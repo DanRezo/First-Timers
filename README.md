@@ -1,7 +1,7 @@
 ## Welcome to my first blog!
  Here I will be covering some questions that I've run into while self-studying Java.
  ### Who am I?
- My name is Daniel Balarezp, but I usually go by Rezo. I'm originally from Miami, Fl and am I hoping to become a great software engineer.
+ My name is Daniel Balarez0, but I usually go by Rezo. I'm originally from Miami, Fl and am I hoping to become a great software engineer.
  ### What can I learn from this blog?
  Hopefully, the problems I have encountered and ran into will help you on your quest on understanding Java principles.
 
@@ -29,25 +29,25 @@ To cast information into a new format, put the new format surrounded by parens i
 
 Here is an example of casting an integer to a string
 
-“`
+```
 int number = 305;
 Sting intasstring = Integer.toString(number);
 
 The result will be
 
 String intasstring = 305:
-“`
+```
 
-The result is shown because of a static class method “public static String toString(int i)”.
+The result is shown because of a static class method “public static String to String (int i)”.
 
 ## 'import.java.util. Scanner.'
 
-Java.util. Scanner is a library within java that contains functionality that allows the user to gather information into our programs from the keyboard or other places like files from the computer or from the internet. 
+Java.util. Scanner is a library within java which contains functionality that allows the user to gather information into their programs from the keyboard or other places like files from the computer or from the internet. 
 
-```
+
 Scanner Keyboard = new Scanner(System.in);
 keyboard.next();
-``
+
 **Scanner** is referring to the object which is the **Keyboard**
 'keyboard.next() is telling the computer "keyboard *run* next() *function*.
 
