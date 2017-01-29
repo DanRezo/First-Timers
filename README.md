@@ -1,7 +1,7 @@
 ## Welcome to my first blog!
  Here I will be covering some questions that I've run into while self-studying Java.
  
- ### Who am I?
+ ##Who am I?
  My name is Daniel Balarezo, but I usually go by Rezo. I'm originally from Miami, Fl and am I hoping to become a great software engineer.
  
  ### What can I learn from this blog?
