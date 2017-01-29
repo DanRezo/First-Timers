@@ -1,10 +1,11 @@
 ## Welcome to my first blog!
- Here I will be covering some questions that I've run into while self-studying Java.  ### Who am I?
- My name is Daniel Balearic, but I usually go by Rezo. I'm originally from Miami, Fl and am I hoping to become a great software engineer.
+ Here I will be covering some questions that I've run into while self-studying Java.
+ ### Who am I?
+ My name is Daniel Balarezp, but I usually go by Rezo. I'm originally from Miami, Fl and am I hoping to become a great software engineer.
  ### What can I learn from this blog?
  Hopefully, the problems I have encountered and ran into will help you on your quest on understanding Java principles.
 
-# Here are 5 principles that I allowed me to comprehend beginner level Java better.
+# Here are 5 principles that allowed me to comprehend beginner level Java better.
 
 ## “=” vs '==' vs '.equals
 
@@ -23,7 +24,7 @@ When more that 2 conditions are input a switch statement will test a variety of 
 
 ## Casting a double to an int.
 
-Converting information to a new form is called *casting*. Casting produces a new value that is a different type of variable or object than it's source. Casting doesn'y actually change the value, instead a new variable or object is created in the format you need.
+Converting information to a new form is called *casting*. Casting produces a new value that is a different type of variable or object than it's source. Casting doesn't actually change the value, instead a new variable or object is created in the format you need.
 To cast information into a new format, put the new format surrounded by parens in front of it.
 
 Here is an example of casting an integer to a string
@@ -43,10 +44,10 @@ The result is shown because of a static class method “public static String toS
 
 Java.util. Scanner is a library within java that contains functionality that allows the user to gather information into our programs from the keyboard or other places like files from the computer or from the internet. 
 
-“`
+```
 Scanner Keyboard = new Scanner(System.in);
 keyboard.next();
-“`
+``
 **Scanner** is referring to the object which is the **Keyboard**
 'keyboard.next() is telling the computer "keyboard *run* next() *function*.
 
