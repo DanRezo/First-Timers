@@ -1,10 +1,10 @@
 ## Welcome to my first blog!
  Here I will be covering some questions that I've run into while self-studying Java.
  
- ##Who am I?
+## Who am I?
  My name is Daniel Balarezo, but I usually go by Rezo. I'm originally from Miami, Fl and am I hoping to become a great software engineer.
- 
- ### What can I learn from this blog?
+
+### What can I learn from this blog?
  Hopefully, the problems I have encountered and ran into will help you on your quest on understanding Java principles.
 
 # Here are 5 principles that allowed me to comprehend beginner level Java better.
